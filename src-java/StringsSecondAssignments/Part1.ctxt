@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\n\ Part\ of\ a\ Coursera\ course.\ Experimenting\ and\ testing\ with\ methods\ meant\n\ to\ find\ genes\ in\ a\ DNA\ strand.\ This\ is\ the\ least\ complex\ implementation.\n\ \n\ @author\ Santiago\ Dom\u00EDnguez\n\ @version\ August\ 30,\ 2020.\n
+comment1.params=dna
+comment1.target=void\ printAllGenes(java.lang.String)
+comment2.params=
+comment2.target=void\ testFindGene()
+comment3.params=dna\ startLooking
+comment3.target=java.lang.String\ findGene(java.lang.String,\ int)
+comment4.params=dna\ startIndex\ stopCodon
+comment4.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment5.params=
+comment5.target=void\ testStopCodon()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

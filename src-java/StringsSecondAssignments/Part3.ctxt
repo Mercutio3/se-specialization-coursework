@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\n\ Program\ that\ counts\ all\ genes\ inside\ a\ dna\ strand.\n\ \n\ @author\ Santiago\ Dom\u00EDnguez\n\ @version\ August\ 30,\ 2020.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=dna
+comment2.target=void\ countAllGenes(java.lang.String)
+numComments=3

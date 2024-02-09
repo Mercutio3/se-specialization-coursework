@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=WeatherData
+comment1.params=whichColumn
+comment1.target=java.lang.String\ fileWithColdestTemperature(java.lang.String)
+comment2.params=parser\ column
+comment2.target=org.apache.commons.csv.CSVRecord\ coldestXInFile(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment3.params=parser\ printWhat
+comment3.target=void\ printAll(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment4.params=parser
+comment4.target=double\ averageTemps(org.apache.commons.csv.CSVParser)
+comment5.params=parser\ value
+comment5.target=double\ averageTempsHumidity(org.apache.commons.csv.CSVParser,\ int)
+comment6.params=
+comment6.target=void\ testColdestHourInFile()
+comment7.params=whichThing
+comment7.target=void\ testFileWithColdestTemperature(java.lang.String)
+comment8.params=
+comment8.target=void\ testLowestHumidityInFile()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

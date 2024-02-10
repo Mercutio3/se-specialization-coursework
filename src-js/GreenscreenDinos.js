@@ -1,3 +1,8 @@
+/*
+ * Created on 27 July 2020
+ * @Mercutio3 on GitHub
+ */
+
 var fgImage = new SimpleImage("drewRobert.png");
 var bgImage = new SimpleImage("dinos.png");
 var output = new SimpleImage(fgImage.getWidth(), fgImage.getHeight());

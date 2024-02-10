@@ -1,3 +1,8 @@
+/*
+ * Created on 25 July 2020
+ * @Mercutio3 on GitHub
+ */
+
 // Creating image and printing it
 var img = new SimpleImage(200,200);
 print(img);

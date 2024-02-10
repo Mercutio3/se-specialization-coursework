@@ -1,3 +1,8 @@
+/*
+ * Created on 26 July 2020
+ * @Mercutio3 on GitHub
+ */
+
 // Creating and printing original image
 var img = new SimpleImage("duke_blue_devil.png");
 print(img);

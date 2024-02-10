@@ -1,3 +1,8 @@
+/*
+ * Created on 28 July 2020
+ * @Mercutio3 on GitHub
+ */
+
 // Add images
 var panda = new SimpleImage("smallpanda.png");
 var skyline = new SimpleImage("skyline.jpg");

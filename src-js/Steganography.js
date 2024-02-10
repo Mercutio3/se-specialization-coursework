@@ -1,3 +1,8 @@
+/*
+ * Created on 13 August 2020
+ * @Mercutio3 on GitHub
+ */
+
 function crop(image, width, height){
     var cropimage = new SimpleImage(width, height);
     for(var pixel of image.values()){

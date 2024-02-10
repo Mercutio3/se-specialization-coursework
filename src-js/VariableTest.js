@@ -1,3 +1,8 @@
+/*
+ * Created on 24 July 2020
+ * @Mercutio3 on GitHub
+ */
+
 // Experimenting with variables and creating SimpleImage
 var x = 5;
 var y = 11;

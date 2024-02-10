@@ -1,3 +1,8 @@
+/*
+ * Created on 25 July 2020
+ * @Mercutio3 on GitHub
+ */
+
 // Create and print original image
 var img = new SimpleImage("hilton.jpg");
 var imgWidth = img.getWidth();

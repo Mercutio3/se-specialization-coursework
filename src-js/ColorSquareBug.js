@@ -1,3 +1,8 @@
+/*
+ * Created on 28 July 2020
+ * @Mercutio3 on GitHub
+ */
+
 var img = new SimpleImage(200,200);
 for (var px of img.values()){
   var x = px.getX();
